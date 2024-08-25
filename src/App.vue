@@ -34,9 +34,7 @@
                 <TaskDetails :task="task"/>
             </div>
         </div>
-
-        <button @click="$reset">Reset</button>
-
+        
     </main>
 </template>
 
